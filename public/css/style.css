@@ -15,6 +15,17 @@ body{
     background-attachment: fixed;
     background-size: cover;
   }
+  .tagline{
+    font-size: 1.5em;
+  }
+}
+
+a{
+  color:#333;
+}
+
+a:hover{
+  text-decoration: underline;
 }
 
 #main-content{
@@ -31,7 +42,7 @@ body{
   margin-left:0.5em;
   margin-top: 0;
   text-transform: uppercase;
-  font-size: 1.2em;
+  font-size: 1.5em;
 }
 
 #site-title a{
@@ -123,7 +134,7 @@ img{
 
 a.button{
   /* display: block; */
-  background-color: dodgerblue;
+  background-color: #1e82ae;
   color:white;
   border-radius: 10px;
   width:50%;

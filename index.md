@@ -5,8 +5,8 @@ description:
 ---
 
 <img class="big-image" src="/public/images/Hackland-2Lines.png"/>
-<div class="container">
-<h2 class="tagline">A nest of tech, art, creativity and freedom. Hackland is a makerspace/hakerspace/public workshop situated in Kingsland, Auckland.</h2>
+<div>
+<h4 class="tagline">A nest of tech, art, creativity and freedom. Hackland is a makerspace / hackerspace / public workshop situated in Kingsland, Auckland.</h4>
 </div>
 
 ## Quick Links
