@@ -4,10 +4,11 @@ title: Hackland
 description: 
 ---
 
-<img class="big-image" src="/public/images/Hackland-2Lines.png"/>
-<div>
+![](/public/images/intro-bg.jpg)
+
 <h4 class="tagline">A nest of tech, art, creativity and freedom. Hackland is a makerspace / hackerspace / public workshop situated in Kingsland, Auckland.</h4>
-</div>
+
+
 
 ## Quick Links
 
@@ -40,6 +41,4 @@ The Te Atatu Peninsula Digital Makerspace in the community centre. Visit for 3D 
 #### The Warren ([website](https://www.thewarren.nz/))
 
 A community workshop that runs classes and allows members of the public to rent a bench for as little as $4 an hour. Visit for Woodworking.
-
-![](/public/images/intro-bg.jpg)
 
