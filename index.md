@@ -6,9 +6,7 @@ description:
 
 ![](/public/images/intro-bg.jpg)
 
-<h4 class="tagline">A nest of tech, art, creativity and freedom. Hackland is a makerspace / hackerspace / public workshop situated in Kingsland, Auckland.</h4>
-
-
+<h4 class="tagline">Hackland is a place where <span style="text-decoration:underline;">anyone</span> can come to learn, make or just hang out.</h4>
 
 ## Quick Links
 
@@ -21,6 +19,10 @@ description:
 <br/><br/>
 
 ## Friends of Hackland
+
+#### Auckland Library of Tools ([website](https://www.aucklandlibraryoftools.com/))
+
+Like a Library but for tools, sign up for 3 months or 1 year and you can borrow up to 10 tools for 7 days. All the other library stuff applies, you can renew tools, or reserve really popular ones, even late fees.
 
 #### Gribblehirst Hub ([website](https://ghub.nz/))
 
