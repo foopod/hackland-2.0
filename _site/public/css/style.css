@@ -9,7 +9,7 @@ body{
 @media screen and (min-width: 600px) {
   html{
     /* background-image: url(https://images.unsplash.com/photo-1564089957880-517edea1afc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80); */
-    background-color:black;
+    /* background-color:black; */
     min-height: 500px;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -92,10 +92,11 @@ a:hover{
 }
 
 .container{
-  max-width: 40em;
+  max-width: 50em;
   margin:auto;
   padding:1em;
 }
+
 
 img{
   width: 100%;
@@ -113,6 +114,16 @@ img{
   margin-top:1em;
   align-items: center;
   justify-content: center;
+}
+
+.gallery{
+  display: flex;
+  align-items: center;
+
+}
+.gallery img{
+  width:100%;
+
 }
 
 @media screen and (max-width: 600px) {

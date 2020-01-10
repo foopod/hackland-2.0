@@ -1,24 +1,19 @@
 ---
-layout: page
+layout: gallery
 title: Gallery
 description: The goings on at Hackland
 ---
 ![](/public/images/gallery/gallery3.jpg)
 ![](/public/images/gallery/gallery2.jpg)
 ![](/public/images/gallery/gallery1.jpg)
-
 ![](/public/images/gallery/gallery4.jpg)
 ![](/public/images/gallery/gallery5.jpg)
 ![](/public/images/gallery/gallery6.jpg)
-![](/public/images/gallery/gallery6.jpg)
 ![](/public/images/gallery/gallery7.jpg)
 ![](/public/images/gallery/gallery8.jpg)
-
 ![](/public/images/gallery/gallery9.jpg)
 ![](/public/images/gallery/gallery10.jpg)
 ![](/public/images/gallery/gallery11.jpg)
-
-
 ![](https://lh3.googleusercontent.com/6vbUc6S991Q_gm5GnHxYv1uFrNM__bGbbaTAiQIicKbNrfUrJxMefLdnP2OSZLu3F5xm-cADxG6BWQYC1EbEosSnXD4acwdzgr5OKXfxn2HSuD7z92c4GXb1TJHPbN7LBM9gnKhTQLM=w1920-h1080)
 ![](https://lh3.googleusercontent.com/AmLl6ysScR2vW1KcCCmn2DW977a7nCY_fC2_s4YvFOvNqspawcPKM04Dvh7qxBEzwm6QlX4R7uhak6p3SZAkqCLQCTWp3g9DYzaP35QhKDDburZ7BCZQvEHUusOBMKVj_zxfbOSd8uI=w1920-h1080)
 ![](https://lh3.googleusercontent.com/YWNcAeO0o8GZj3kYXNJLvw-jSU1fqK9BOajl_y7SWFJ6L-y-UIZZBMWhaEVZh21iy7dh0BtSnjSe2Oj3gu8sYXSq-oUs7zbwPs2OR9rZHqc9DkZad6YGQNr_eeyy2xFesjka1w6Ywso=w1920-h1080)
