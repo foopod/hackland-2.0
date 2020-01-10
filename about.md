@@ -4,36 +4,31 @@ title: About
 description: A bit about Hackland
 ---
 
-# Our Guiding Principles
-**6 hour rule and “Do Not Hack”**
-Change and experimentation is more than welcome, even if you’re not sure how it will end up, but if any change to the space would take longer than 6 hours to put back as it was, please check on the mailing list before doing it.
-Also, you can use anything in the space for anything you’d like - parts or as part of another project - but if it has a DO NOT HACK sticker on it please leave it alone because it’s probably important.
+## Who are we?
 
-**Safety:** Some parts of the space are dangerous and some of the tools should not be used unless you know how to use them. If insure ask someone. If it has a red sticker, make sure you've been shown how to safely use the tool by someone before trying it.
+We are a community that loves to make, learn and have fun.
 
-If your about to make a bunch of noise, warn everyone and offer ear protection before switching stuff on.
+To become a member have a look [here](/join/).
 
-**Temporary Accomodation :** Hackland is not the place for emergency accomodation. No one should be spending the night or sleeping in the space. This may change in the future by method of consensus. *(Added **07/03/19** by Loomio decision)*
+We have very few hard and fast rules, instead we prefer to encourage creativity and collaboration through guiding principles. Please see below.
 
-**Non Exclusivity:** side rooms are available for running events in, but it’s important that others can always use the main space for their own thing even while your thing is going on. 
-Also events must be open to everyone who’s interested and cannot be charged for - knowledge is free.
+## Our Guiding Principles
+
+**Safety:** We make awesome tools accessible to members and the public at times. This means that members hold a lot of responsibility both for themselves and for others wellbeings.
+
+**Non Exclusivity:** We encourage members to use the space to run events, they must be open to anyone that is interested and cannot be charged for - knowledge is free.
+
+**Consensus Protocol:** Disagreement is inevitable, it is important for us however to have discussions and make decisions with by doing what is best for the group as a whole. The voice of the few are equal to the voice of the many - we do not govern by mob rule.
+
+**Creativity Encouraged:** All members are permitted to make changes to the space, create new areas and explore new things. We call this the "6 hour rule", if what you do can be undone in 6 hours then no permission is necessary. If longer then consult others and get further opinions.
+
+Please check out our [constitution](https://github.com/HakLand/Constitution) for more information.
+
+Below are a few other things to be mindful of, again covered in the constitution linked above.
+
+
+**Temporary Accomodation :** Hackland is not the place for emergency accomodation. No one should be spending the night or sleeping in the space. This may change in the future by method of consensus.
 
 **Commercial use and prototyping:** A hackspace is a great place to try ideas, prototype first versions and maybe even bootstrap a business - but doing the actual manufacturing there puts strain on other members.
-This is not a hard and fast rule.
 
-**Consensus Protocol:** Disputes and tensions are inevitable, but working through them and trying to resolve things so the whole group is alright with things is important, even if difficult.
-
-The voice of the few are equal to the voice of the many - we do not govern by mob rule.
-
-Opinions and dissent are important, but compromise should always be aimed for - not deadlock.
-
-Arguments must always be thought of as what's best for the group as a whole, rather than the individual.
-
-**Donation of Things & Materials:** We welcome donations!
-Things can either be loaned to the space or gifted to the space.
-
-If whatever's being brought in is going to make a lot of noise, smell strange to take up a lot of space, there should be a community-wide discussion about it being brought in first.
-
-If you don't want it to be hacked or changed, please place a DO NOT HACK sticker on it.
-
-[https://github.com/HakLand/Constitution](https://github.com/HakLand/Constitution)
+**Donation of Things & Materials:** We welcome donations! Things can either be loaned to the space or gifted to the space. Please note however that space is at a premium, if donated items take up a large amount of space or are not in the interests of the community a discussion should be had before accepting them.
