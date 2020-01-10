@@ -207,6 +207,6 @@ description: The Tools we currently have at Hackland
             Drills, belt sanders, palm sanders, routers, angle grinders, heatguns, nailguns...etc.
         </p>
         <img src="/public/images/tools/power-tools2.jpg"/>
-        <img src="/public/images/tools/power-tools1.jpg"/>
+        <img src="/public/images/tools/power-tools3.jpg"/>
     </div>
 </div>
