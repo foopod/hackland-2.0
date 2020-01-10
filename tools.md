@@ -75,7 +75,7 @@ description: The Tools we currently have at Hackland
 <div class="tool">
     <img class="tool-pic" src="/public/images/tools/dropsaw.jpg"/>
     <div class="tool-description">
-        <h3 class="tool-title">Miter Saw</h3>
+        <h3 class="tool-title">Mitre Saw</h3>
         <p>
             We have an extensive range of saws, including a table saw and circular saws too.
         </p>
@@ -101,6 +101,9 @@ description: The Tools we currently have at Hackland
         <h3 class="tool-title">Laser Cutter</h3>
         <p>
             Cut and engrave plastics, wood and other materials with laser.
+        </p>
+        <p>
+            For materials and a guide please see <a href="/public/Material do-dont.pdf">this</a>.
         </p>
     </div>
 </div>

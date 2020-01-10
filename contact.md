@@ -11,13 +11,17 @@ The two best ways to get in touch are...
 
 We are situated in Kingsland, Auckland.
 
-<img src="/public/images/map.png"/>
-
->Hackland Inc. <br>
->Unit B-C, 48 Bond Street,<br>
->Kingsland,<br>
->Auckland, 1021
-
+<div class="tool">
+<img class="tool-pic" src="/public/images/map.png"/>
+    <div class="tool-description">
+        <p>
+            Hackland Inc. <br>
+            Unit B-C, 48 Bond Street,<br>
+            Kingsland,<br>
+            Auckland, 1021
+        </p>
+    </div>
+</div>
 You can also find us online at...
 
 <div class="links">
