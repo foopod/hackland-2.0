@@ -97,6 +97,12 @@ a:hover{
   padding:1em;
 }
 
+.container-wide{
+  max-width: 90%;
+  margin:auto;
+  padding:1em;
+}
+
 
 img{
   width: 100%;
@@ -116,14 +122,27 @@ img{
   justify-content: center;
 }
 
-.gallery{
+.grid{
   display: flex;
   align-items: center;
-
+  justify-content: center;
+  justify-items: center;
+  overflow: auto;
+  position:absolute;
+  left:0;
+  right:0;
+  flex-wrap: wrap;
 }
-.gallery img{
-  width:100%;
+.grid-item{
+  max-width:400px;
+  object-fit: cover;
+}
 
+.grid-item img {
+  display: block;
+  max-width: 98%;
+  margin: auto;
+  margin-top: 8px;
 }
 
 @media screen and (max-width: 600px) {
