@@ -140,9 +140,10 @@ img{
 
 .grid-item img {
   display: block;
-  max-width: 98%;
+  max-width: 95%;
   margin: auto;
-  margin-top: 8px;
+  margin-top: 20px;
+  /* padding:1em; */
 }
 
 @media screen and (max-width: 600px) {
